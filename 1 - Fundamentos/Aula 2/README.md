@@ -1,6 +1,6 @@
 <h1 align="center">
 
-Javascript Básico
+[Javascript Básico](https://github.com/nrxschool/bootcamp-optimism/tree/main/week1/day2)
 
 ###
 
