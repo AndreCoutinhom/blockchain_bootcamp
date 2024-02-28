@@ -1,3 +1,5 @@
+# Abaixo a função hash é criada usando outra biblioteca
+
 import keccaky
 
 data = "nearx"
