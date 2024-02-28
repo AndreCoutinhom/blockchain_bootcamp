@@ -1,4 +1,4 @@
-# UTXOS são como notas de dinheiro digital dentro da blockchain do bitcoin.
+# UTXOS (Unspent transaction output) são como notas de dinheiro digital dentro da blockchain do bitcoin.
 
 utxos = [{"owner": "Bob", "amount": 15}]
 
