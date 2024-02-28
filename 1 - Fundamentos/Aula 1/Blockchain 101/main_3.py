@@ -9,6 +9,7 @@ print(account.key.hex())
 print(account.address)
 
 # ETHEREUM SIGNATURE (r,s,v)
+# Assinaturas na blockchain ethereum criam três valores diferentes que autenticam a fonte da transação ao interpretar a chave pública e a chave privada do usuário.
 
 tx = {
     "to": "0xF0109fC8DF283027b6285cc889F5aA624EaC1F55",
