@@ -3,7 +3,7 @@ Elas se diferem na evolução da tecnologia de criptografia que pode ser mais f�
 
 ---
 
-Neste código, a função hash é selecionada e dados são inseridos e "hasheados" de forma que sejam criptografados com saída de tamanho fixo.
+Neste código, a função hash é selecionada e dados são inseridos (no caso aqui está sendo a string "Hello World") e "hasheados" de forma que sejam criptografados com saída de tamanho fixo.
 
 */
 
