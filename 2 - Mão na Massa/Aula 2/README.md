@@ -1,6 +1,6 @@
 <h1 align="center">
 
-[ERC20]()
+[ERC20](https://github.com/nrxschool/bootcamp-optimism/tree/main/week2/day2)
 
 ###
 
