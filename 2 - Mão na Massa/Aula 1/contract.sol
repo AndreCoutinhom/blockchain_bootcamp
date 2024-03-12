@@ -5,6 +5,8 @@
 pragma solidity ^0.8.13;
 
 contract Counter {
+
+// Aqui o número inteiro não está declarado como público. Dessa forma, a única maneira de obtê-lo é através da função getNumber na linha 24.
     uint8 number;
 // Em solidity, "uint" é a declaração de um número inteiro.
 
